@@ -14,7 +14,7 @@ const Footer = ({ openMenu }) => {
         <a href="https://www.instagram.com">
           <img className="footer--icon" src={BeReal} alt="BeReal logo" />
         </a>
-        <a href="https://www.tiktok.com">
+        <a href="https://www.tiktok.com/@saxenaperez?is_from_webapp=1&sender_device=pc">
           <img className="footer--icon" src={TikTok} alt="TikTok logo" />
         </a> 
       </div>
