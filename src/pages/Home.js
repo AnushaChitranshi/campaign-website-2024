@@ -27,6 +27,7 @@ const Home = () => {
             <h1>Saxena Perez</h1>
             
           </div>
+          {/* Pls work */}
           <a className="justA" href="https://campuslink.uc.edu/account/login?returnUrl=/"> 
           <Button className="home--voteButton" size="large"
           style={{ color: "white", backgroundColor: "#210124", 
