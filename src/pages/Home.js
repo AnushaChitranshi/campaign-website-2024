@@ -28,7 +28,7 @@ const Home = () => {
             
           </div>
           {/* Pls work */}
-          <a className="justA" href="https://campuslink.uc.edu/account/login?returnUrl=/"> 
+          <a className="justA" href="https://campuslink.uc.edu/submitter/election/start/627163"> 
           <Button className="home--voteButton" size="large"
           style={{ color: "white", backgroundColor: "#210124", 
           fontFamily: "sans-serif", display: "flex",
