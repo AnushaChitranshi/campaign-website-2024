@@ -1,7 +1,7 @@
 import React from "react";
 //import PlatformCard from "../components/PlatformCard";
 import HomeImg from "../images/home_pic.jpg";
-import { FloatButton } from 'antd';
+import { FloatButton, Button } from 'antd';
 import Goals from "../pages/Goals";
 
 
@@ -27,6 +27,12 @@ const Home = () => {
             <h1>Saxena Perez</h1>
             
           </div>
+          <a className="justA" href="https://campuslink.uc.edu/account/login?returnUrl=/"> 
+          <Button className="home--voteButton" size="large"
+          style={{ color: "white", backgroundColor: "#210124", 
+          fontFamily: "sans-serif", display: "flex",
+          alignItems: "center", justifyContent: "center"}}>
+            VOTE NOW!</Button> </a>
         </div>
       </div>
     </div>
